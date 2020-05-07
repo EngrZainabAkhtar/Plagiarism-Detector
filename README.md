@@ -1,2 +1,3 @@
 # Plagiarism-Detector
-Second project of the Udacity Machine Learning Engineer Nanodegree program where I have created a plagiarism detector using custom similarity features amongst source and answer file such as containment and longest common subsequence further training and deploying on Amazon Sagemaker
+Project of the Udacity Machine Learning Engineer Nanodegree program 
+In which I have built a plagiarism detector that uses customized parallels between the source and the answer file, such as containment and the longest traditional line, further training and delivery to Amazon Sagemaker.
